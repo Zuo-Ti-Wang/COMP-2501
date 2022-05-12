@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Collections;
 /**
- * @author Ruisi Tang
+ * @author Ruisi Tang & Daniel Wart
  * @version 1.0
  */
 public class BookStore

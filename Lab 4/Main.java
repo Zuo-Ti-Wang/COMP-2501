@@ -1,5 +1,5 @@
 /**
- * @author Ruisi Tang
+ * @author Ruisi Tang & Daniel Wart
  * @version 1.0
  */
 public class Main {
